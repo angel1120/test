@@ -4,6 +4,7 @@ int main()
 {
   printf("Hello Harucchi!");
   printf("Stan Seido Boys!");
+  printf("idk what im doing sad oshi oshi oshi!");
 
   return 0;
 }
