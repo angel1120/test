@@ -3,6 +3,7 @@
 int main()
 {
   printf("Hello Harucchi!");
+  printf("Stan Seido Boys!");
 
   return 0;
 }
